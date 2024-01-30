@@ -42,6 +42,7 @@ RDF machines
 [![](../../assets/images/markforged.jpg)](technologies/markforged)
 [![](../../assets/images/vcore50.jpg)](technologies/ratrig)
 [![](../../assets/images/bioprinter.jpg)](technologies/bioprinter)
+[![](../../assets/images/BambuPrinter.jpg)](technologies/Bambu)
 
 ## Milling and Cutting
 
